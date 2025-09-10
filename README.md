@@ -10,7 +10,7 @@ Project Crux is a mobile web app for indoor climbers to track progress and share
 
 Climbing gyms reset their walls often, and climbers lose track of sends or forget the strategies that worked. Project Crux provides a personal logbook and community platform to record climbs, share beta, and connect with others.
 
-This matters because climbing is both personal and social. Many climbers want to measure progression (e.g., sending their first V4) while also learning from peers. Currently, solutions are scattered or informal; Project Crux unifies them into one accessible space.
+This matters because climbing is both personal and social. Many climbers want to measure progression (e.g. sending their first V4) while also learning from peers. Currently, solutions are scattered or informal; Project Crux unifies them into one accessible space.
 
 ## For Whom?
 
@@ -24,7 +24,7 @@ Project Crux is for indoor climbing/bouldering enthusiasts who climb regularly a
 
 From an end-user perspective, Project Crux will allow climbers to:
 
-- **Log climbs**: – track routes, grades, attempts, and notes.
+- **Log climbs** – track routes, grades, attempts, and notes.
 - **Share beta** - upload text, images, or short videos.
 - **Create profiles** – showcase skill level, home gym, and interests.
 - **Discover community beta** – browse advice for climbs at their gym.
